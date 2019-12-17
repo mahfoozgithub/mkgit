@@ -1,2 +1,2 @@
 # mkgit
-This is Mahfooz githup repository for learning purpose only.
+This is Mahfooz github repository for learning purpose only.
